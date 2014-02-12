@@ -1,0 +1,35 @@
+# Bundler
+.bundle
+
+# Jeweler generated
+pkg
+
+# Mac finder artifacts
+.DS_Store
+
+# RDoc generated
+rdoc
+
+# RVM Gemset
+.ruby-version
+.ruby-gemset
+
+# Sublime Text Project Files
+*.sublime-workspace
+*.sublime-project
+
+# Textmate project files
+/*.tmproj
+
+# Yard generated
+doc/
+.yardoc
+
+# vim artifacts
+**.swp
+
+*.gem
+*.rbc
+.config
+spec/reports
+tmp
